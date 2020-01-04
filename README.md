@@ -1,5 +1,7 @@
 # MyFirstAngular
 
+照着 angular 文档上的的 英雄，敲的
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
 ## Development server
